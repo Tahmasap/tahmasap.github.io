@@ -3,9 +3,9 @@
    Update these once and they apply everywhere (hero, contact, footer).
    ========================================================================== */
 const SITE_CONFIG = {
-  github: "YOUR_GITHUB_URL",     // e.g. "https://github.com/your-username"
-  email: "YOUR_EMAIL",           // e.g. "you@example.com"
-  linkedin: "YOUR_LINKEDIN_URL", // e.g. "https://linkedin.com/in/your-name"
+  github: "https://github.com/Tahmasap/",     // e.g. "https://github.com/your-username"
+  email: "m.tahmasap@gmail.com",           // e.g. "you@example.com"
+  linkedin: "https://www.linkedin.com/in/tahmasap/", // e.g. "https://linkedin.com/in/your-name"
 };
 
 /* ==========================================================================
